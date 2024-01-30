@@ -1,0 +1,182 @@
+{
+  "HomeScreenComponent": {
+    "left": {
+      "image_src": "https://res.cloudinary.com/skill-safari/image/upload/v1651387156/website/hire-from-us-banner_rky78p.png"
+    },
+    "right": {
+      "content_1": "Hire our Full Stack Developers", 
+      "content_7":"at No Cost Hiring",
+      "content_2": "Hire our alchemyst students", 
+      "content_3":"who are budding React & Full Stack Developers at", 
+      "content_4":"absolutely",
+      "content_5":"ZERO Cost" ,
+      "content_6":"involved",
+      "button": "Get in Touch With Us"
+    }
+  },
+  "Bridging": {
+    "left": {
+      "content_1": "Bridging the gap between companies and skilled resources",
+      "content_2": "Skill Safari is a technology-enabled skill development company. Provide services for MNCs and startups in the area of Employee skill development, Train and Hire model and Project management."
+    },
+    "right": {
+      "image_src": "https://res.cloudinary.com/skill-safari/image/upload/v1650880208/website/Hire%20from%20us%20/ab3-new_vzo5sb.png"
+    }
+  },
+  "Train": {
+    "left": {
+      "content_1": "Train and Hire Model",
+      "content_2": "Best-suited hiring strategy for mass recruiters. We will take complete ownership of hiring and training the next batch of hustlers who can join your company.",
+      "cards": [
+        {
+          "image_src": "https://skillsafari.in/images/custom-rec.png",
+          "description": "Customized recruitment"
+        },
+        {
+          "image_src": "https://skillsafari.in/images/end-to-end.png",
+          "description": "End to End training"
+        },
+        {
+          "image_src": "https://skillsafari.in/images/ready-deploy.png",
+          "description": "Easy Deployment"
+        }
+      ]
+    },
+    "right": {
+      "image_src": "https://res.cloudinary.com/skill-safari/image/upload/v1650880208/website/Hire%20from%20us%20/title-2-8_etla7v.png"
+    }
+  },
+  "NoCost": {
+    "left": {
+      "content_1": "No Cost Hiring",
+      "content_2": "You are building your team one rockstar at a time? We got you covered. We have directly trained candidates on a wide range of technologies like Full Stack Development, UIUX Design, Data Science, and Many More.",
+      "cards": [
+        {
+          "image_src": "https://skillsafari.in/images/custom-rec.png",
+          "description": "Customized recruitment"
+        },
+        {
+          "image_src": "https://skillsafari.in/images/end-to-end.png",
+          "description": "End to End training"
+        },
+        {
+          "image_src": "https://skillsafari.in/images/ready-deploy.png",
+          "description": "Easy Deployment"
+        }
+      ]
+    },
+    "right": {
+      "image_src": "https://res.cloudinary.com/skill-safari/image/upload/v1650880208/website/Hire%20from%20us%20/title-3-8_ckyzag.png"
+    }
+  },
+  "Corporate": {
+    "left": {
+      "content_1": "Corporate Training",
+      "content_2": "We can help you upskill your current team. Our master trainers are experienced in delivering some of the most amazing CSR and product training. We provide both hard skills and soft skills training.",
+      "cards": [
+        {
+          "image_src": "https://skillsafari.in/images/custom-training-model.png",
+          "description": "Customized training model"
+        },
+        {
+          "image_src": "https://skillsafari.in/images/objective.png",
+          "description": "Objective-based training"
+        },
+        {
+          "image_src": "https://skillsafari.in/images/industry-experts.png",
+          "description": "Trained by Industry Experts"
+        }
+      ]
+    },
+    "right": {
+      "image_src": "https://res.cloudinary.com/skill-safari/image/upload/v1650880208/website/Hire%20from%20us%20/title-4-8_tkjgga.png"
+    }
+  },
+  "Onclk": {
+    "heading1": {
+      "content_1": "Train and Hire model",
+      "content_2": "We will help you build your team by supporting you in all the training and hiring activities."
+    },
+    "heading2": {
+      "content_1": "No Cost Hiring",
+      "content_2": "Perfect for budding startups with limited hustlers. Fully trained and ready to deploy."
+    },
+    "heading3": {
+      "content_1": "Corporate Training",
+      "content_2": "We will help you up-skill your existing team and help them adopt the latest industry trends"
+    },
+    "images": [
+      {
+        "id": 1,
+        "name": "Image 1",
+
+        "url": "https://skillsafari.in/images/train-and-hire-desktop.png"
+      },
+      {
+        "id": 2,
+        "name": "Image 2",
+
+        "url": "https://skillsafari.in/images/no-cost-hiring-desktop.png"
+      },
+      {
+        "id": 3,
+        "name": "Image 3",
+
+        "url": "https://skillsafari.in/images/corporate-desktop.png"
+      }
+    ]
+  },
+
+  "hiring": {
+    "title": "Heading 1",
+    "content_1": "Train and Hire model"
+  },
+
+  "hired_companies_one": {
+    "images": [
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/11_fagzql.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/13_tvprkr.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/12_hoj4gr.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/10_qfmlvn.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/7_tece5d.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/4_pxnskh.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/5_wgt0xy.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/9_oiozex.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/8_jdkvvy.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/22_o2lzul.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/1_k6vqne.png"
+    ]
+  },
+  "hired_companies_two": {
+    "images": [
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/16_w1til3.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/14_iv1jvq.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/18_nfy93y.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/20_gqwkc9.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/21_j5k5qa.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/23_alrqmc.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/24_efmagh.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/17_dncxxc.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/25_ezgyed.png",
+      "https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/6_jdhues.png"
+    ]
+  },
+
+  "content": {
+    "title": "Want to know more about Alchemyst 2.0?",
+    "description": "Want to know how you can join the cohort? or if you have any questions, feel free to connect with our career counsellors.",
+    "buttons": [
+      {
+        "text": "Call Us",
+        "className": "button-1"
+      },
+      {
+        "text": "Whatsapp Us",
+        "className": "button-2"
+      }
+    ]
+  }
+}
